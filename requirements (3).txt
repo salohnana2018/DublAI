@@ -1,0 +1,6 @@
+gradio==4.25.0
+gradio_client==0.15.0
+numpy==1.26.4
+soundfile==0.12.1
+transformers==4.38.2
+TTS==0.22.0
