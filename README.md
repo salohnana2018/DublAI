@@ -1,5 +1,6 @@
 
 # DublAI: AI-Powered Dubbing Application
+![DublAi Header Image](DublAi_header_300dpi.jpg)
 
 Welcome to DublAI, an innovative AI-based application designed for seamless dubbing from English to Arabic and vice versa. Leveraging the latest in artificial intelligence, DublAI combines the prowess of OpenAI's Transformer models, the Whisper model for speech recognition and generation, and Cuco API for efficient language translation. With a user-friendly interface powered by Gradio, DublAI offers an accessible and efficient solution for professionals and enthusiasts alike to overcome language barrie...
 
