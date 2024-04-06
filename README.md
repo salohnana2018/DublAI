@@ -8,7 +8,7 @@ Welcome to DublAI, an innovative AI-based application designed for seamless dubb
 
 - **Bi-directional Dubbing:** Effortlessly dub content from English to Arabic and from Arabic to English, making your media accessible to a broader audience.
 - **State-of-the-Art AI Models:** Utilizes OpenAI's advanced Transformer and Whisper models for accurate speech recognition and generation.
-- **Cuco API Integration:** Leverages the power of Cuco API for seamless and accurate language translation, ensuring the essence of the content remains intact.
+- **Cuqui API Integration:** Leverages the power of Cuco API for seamless and accurate language translation, ensuring the essence of the content remains intact.
 - **Gradio Interface:** Offers a simple and intuitive Gradio-based web interface, making it easy for users to upload, translate, and download dubbed content.
 - **High-Quality Audio Output:** Produces clear and natural-sounding dubbed audio, thanks to the advanced AI algorithms and models at its core.
 
