@@ -25,7 +25,7 @@ Before you begin, ensure you have a Google Colab account for running the noteboo
 
 ### Running DublAI
 
-Navigate to `Audio_translation_Voice_cloning_Gradio.ipynb` and open it in [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/salohnana2018/DublAI/blob/main/Audio_translation_Voice_cloning_Gradio.ipynb).
+Navigate to `Audio_translation_Voice_cloning_Gradio.ipynb` and open it in [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/salohnana2018/DublAI/blob/main/Audio_translation_Vioce_cloning_Gradio.ipynb).
 
 
 
