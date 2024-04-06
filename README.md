@@ -14,7 +14,7 @@ Welcome to DublAI, an innovative AI-based application designed for seamless dubb
 ## Repository Contents
 
 - `requirements.txt`: Contains the list of libraries necessary for running DublAI, with a focus on excluding pre-installed libraries in Google Colab to streamline setup.
-- `Audio_translation_Voice_cloning_Gradio.ipynb`: A comprehensive Colab notebook that guides you through the entire process of using DublAI, from installation to execution.
+- `Audio_translation_Voice_cloning_Gradio.ipynb`: A Colab notebook that contains a demo of DublAI.
 
 ## Getting Started
 
@@ -26,7 +26,8 @@ Before you begin, ensure you have a Google Colab account for running the noteboo
 
 1. **Open the Notebook in Google Colab**
 
-   Navigate to `Audio_translation_Voice_cloning_Gradio.ipynb` and open it in Google Colab.
+   Navigate to `Audio_translation_Voice_cloning_Gradio.ipynb` and open it in [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/salohnana2018/DublAI/blob/main/Audio_translation_Voice_cloning_Gradio.ipynb).
+
 
 2. **Install Dependencies**
 
