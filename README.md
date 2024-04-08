@@ -47,6 +47,6 @@ Navigate to `Audio_translation_Voice_cloning_Gradio.ipynb` and open it in [![Ope
 
 ## DEMO
 
-[DEMO link]([path/to/video.mp4](https://github.com/salohnana2018/DublAI/blob/main/DublAiDemo.mp4)
+[DEMO link](https://github.com/salohnana2018/DublAI/blob/main/DublAiDemo.mp4)
 
 
