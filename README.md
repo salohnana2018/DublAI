@@ -45,6 +45,8 @@ Navigate to `Audio_translation_Voice_cloning_Gradio.ipynb` and open it in [![Ope
 3. **Process:** Follow the instructions in the notebook to dub your media. DublAI will first transcribe the audio using OpenAI's Whisper model, translate the text using Cuco API, and finally generate the dubbed audio in the target language.
 4. **Download:** Once processed, you can download the dubbed version of your media directly through the interface.
 
+## DEMO
 
+[DEMO link]([path/to/video.mp4](https://github.com/salohnana2018/DublAI/blob/main/DublAiDemo.mp4)
 
 
